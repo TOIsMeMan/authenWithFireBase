@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>238776805636-4liko1oskhl4bmo1hs4qq342t9qaujgl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.238776805636-4liko1oskhl4bmo1hs4qq342t9qaujgl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>238776805636-e7ru8unj0ul6mth68sbcf22fvoi7cbc1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJwqon4ABBJOp_pxUOOobk3v-rT4MLTg4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>238776805636</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.witwork.vpn</string>
+	<key>PROJECT_ID</key>
+	<string>wit-vpn</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wit-vpn.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:238776805636:ios:143a81200449e392a98851</string>
+	<key>DATABASE_URL</key>
+	<string>https://wit-vpn.firebaseio.com</string>
+</dict>
+</plist>
